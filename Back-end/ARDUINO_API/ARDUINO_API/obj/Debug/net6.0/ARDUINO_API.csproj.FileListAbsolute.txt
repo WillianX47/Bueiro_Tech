@@ -1,0 +1,82 @@
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\appsettings.json
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\ARDUINO_API.exe
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\ARDUINO_API.deps.json
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\ARDUINO_API.runtimeconfig.json
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\ARDUINO_API.dll
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\ARDUINO_API.pdb
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\System.IO.Ports.dll
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ARDUINO_API.csproj.AssemblyReference.cache
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ARDUINO_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ARDUINO_API.AssemblyInfoInputs.cache
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ARDUINO_API.AssemblyInfo.cs
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ARDUINO_API.csproj.CoreCompileInputs.cache
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ARDUINO_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ARDUINO_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\scopedcss\bundle\ARDUINO_API.styles.css
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ARDUINO_API.csproj.CopyComplete
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ARDUINO_API.dll
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\refint\ARDUINO_API.dll
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ARDUINO_API.pdb
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ARDUINO_API.genruntimeconfig.cache
+C:\Users\black\Desktop\bueiro_v1\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ref\ARDUINO_API.dll
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\appsettings.json
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\ARDUINO_API.exe
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\ARDUINO_API.deps.json
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\ARDUINO_API.runtimeconfig.json
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\ARDUINO_API.dll
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\ARDUINO_API.pdb
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\System.IO.Ports.dll
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ARDUINO_API.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ARDUINO_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ARDUINO_API.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ARDUINO_API.AssemblyInfo.cs
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ARDUINO_API.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ARDUINO_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ARDUINO_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\scopedcss\bundle\ARDUINO_API.styles.css
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ARDUINO_API.csproj.CopyComplete
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ARDUINO_API.dll
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\refint\ARDUINO_API.dll
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ARDUINO_API.pdb
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ARDUINO_API.genruntimeconfig.cache
+C:\Users\willi\Desktop\Trabalho Faculdade\bueiro_v3\ARDUINO_API\ARDUINO_API\obj\Debug\net6.0\ref\ARDUINO_API.dll

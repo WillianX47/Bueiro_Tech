@@ -1,0 +1,17 @@
+a, a:hover, a:focus, a:active {
+  text-decoration: none;
+  color: inherit;
+}
+
+body{
+	background-color:#96ADC8;
+}
+
+td {
+  background-color: aliceblue;
+}
+
+
+.hiddenRow {
+    padding: 0 !important;
+}
